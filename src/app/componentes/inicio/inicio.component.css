@@ -1,0 +1,75 @@
+.hero{
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+
+body{
+  background-color: #2e3138;
+  height:auto;
+  width: auto;
+}
+
+.articulofrontal h1 {
+  margin-bottom: 1em;
+  color: #fff;
+  line-height: 130%;
+  text-align: center;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.img-ini{
+  height: 350px;
+  width: 600px;
+  margin: 0px auto;
+  display: block;
+}
+
+.descart {
+  color: #fff;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  text-align: center;
+  font-family: Arial;
+  padding-bottom: 1em;
+}
+
+.textart {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  color: #fff;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.textart p{
+  margin-bottom: 20px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin: 0 0 10px;
+}
+
+
+#copyright {
+  width: 100%;
+  margin: 0 auto;
+  background: #24272c;
+  border-top: 1px solid #383c44;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  text-align: center;
+}
+
+#copy{
+  color: #D1CFE7;
+}
+
